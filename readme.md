@@ -66,5 +66,4 @@ __Code Quality__ Make sure that your code is:
 We’ll also be looking at:
 
 * Quality of communication around decision-making. Can you defend why you chose a certain technology or why you implemented your solution in a certain way?
-* 
 * Your ability to pick up new technologies and push yourself.
